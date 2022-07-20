@@ -1,0 +1,18 @@
+6|oxillo|1|1000.0 Dh|Electricité-Automatisme
+7|clé13-15|1|10.0 Dh|Mécanique
+8|multimètre|1|300.0 Dh|Electricité-Automatisme
+9|diode74p47|15|5.0 Dh|Electricité-Automatisme
+10|pompe|1|10000.0 Dh|Hydraulique-Pneumatique
+11|pied à coulisse|1|100.0 Dh|Mécanique
+12|bétonnière|1|15000.0 Dh|Génie Civil
+13|tube à essai|10|10.0 Dh|Chimie
+14|balance|1|300.0 Dh|SFC
+15|arduino mega|1|250.0 Dh|Electricité-Automatisme
+16|tour|1|30000.0 Dh|Mécanique
+17|eprouvette à essais mécaniques|10|7.0 Dh|Mécanique
+19|pince|1|20.0 Dh|SFC
+20|Chlorure de Sodium (flacon de 50 cl)|1|10.0 Dh|Chimie
+21|tournevis|1|15.0 Dh|Mécanique
+25|gilets|20|25.0 Dh|Chimie
+26|lunettes de protection|20|10.0 Dh|Chimie
+27|moteur pas à pas|5|150.0 Dh|Electricité-Automatisme
